@@ -8,11 +8,11 @@ hero:
   tagline: 学科学习，竞赛相关，项目相关
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github
+      link: https://github.com/wfu-itcx/wfu-itcx.github.io
 
 features:
   - title: 潍院学习
