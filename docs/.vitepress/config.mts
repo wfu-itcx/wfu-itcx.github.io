@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ITCX",
   description: "ITCX_BLOG",
+  base: "/wfu-itcx.github.io/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
