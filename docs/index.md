@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "ITCX"
-  text: "ITCX_BLOG"
-  tagline: My great project tagline
+  text: "IT创新协会知识库"
+  tagline: 学科学习，竞赛相关，项目相关
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 潍院生活
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 计算机学科学习
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: ACM竞赛
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 项目开发
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

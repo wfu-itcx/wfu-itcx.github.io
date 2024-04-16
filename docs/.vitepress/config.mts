@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ITCX",
-  description: "ITCX_BLOG",
+  description: "IT创新协会知识库",
   base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
