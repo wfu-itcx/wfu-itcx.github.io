@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "ITCX",
-  base:"https://github.com/wfu-itcx/wfu-itcx.github.io.git",
+  base:"/wfu-itcx/",
   description: "记事本",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
