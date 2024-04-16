@@ -15,13 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: 潍院生活
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 计算机学科学习
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 潍院学习
+    details: 快速了解计算机学院下的竞赛，指导教师，实验室等相关信息内容。
   - title: ACM竞赛
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 项目开发
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 欢迎来到算法世界！ 
+  - title: 计算机学科学习
+    details: 收集国内外优秀公开课的学习资料
 ---
 
